@@ -88,7 +88,7 @@ const config = {
     {
       title: 'Virconix.eu',
       description:
-        'An 1.19 Minecraft Server',
+        'An 1.19 Minecraft Server.',
       imageUrl: 'https://media.discordapp.net/attachments/1052282503941062708/1092094564094988440/logo.png?width=662&height=662',
     },
     {
@@ -97,6 +97,12 @@ const config = {
         'A private Minecraft utility mod.',
       imageUrl: 'https://media.discordapp.net/attachments/1088891197336060057/1092466749347205242/acid.png?width=225&height=225',
     },
+    {
+      title: 'SpreyX Selfbot',
+      description: 
+        'A Discord selfbot.',
+      imageUrl: 'https://media.discordapp.net/attachments/1088891197336060057/1092492545428295700/image.png?width=292&height=292',
+    }
   ],
   // Display blog posts from your medium or dev account. (Optional)
 //   blog: {
