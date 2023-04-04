@@ -15,7 +15,7 @@ const config = {
     twitter: '',
     mastodon: '',
     facebook: '',
-    instagram: '',
+    instagram: '@dqmn_on_top',
     dribbble: '',
     behance: '',
     medium: '',
