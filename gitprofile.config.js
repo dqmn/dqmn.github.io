@@ -15,7 +15,7 @@ const config = {
     twitter: '',
     mastodon: '',
     facebook: '',
-    instagram: '@dqmn_on_top',
+    instagram: 'dqmn_on_top',
     dribbble: '',
     behance: '',
     medium: '',
@@ -23,7 +23,7 @@ const config = {
     stackoverflow: '', // format: userid/username
     skype: '',
     telegram: '',
-    website: '',
+    website: 'dqmn.is-a.dev',
     phone: '',
     email: '',
   },
